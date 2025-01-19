@@ -8,3 +8,16 @@
 
 
 <br/>
+
+
+![homepg-ph](https://github.com/user-attachments/assets/d5c6570e-98c5-4a46-bfc7-f6c43f346ab4)
+
+
+<br/>
+
+
+![login-ph](https://github.com/user-attachments/assets/bb9b3476-f737-458b-a403-8b97d2cf01eb)
+
+
+
+<br/>
