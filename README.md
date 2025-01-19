@@ -10,7 +10,7 @@
 <br/>
 
 
-<img src="https://github.com/user-attachments/assets/d5c6570e-98c5-4a46-bfc7-f6c43f346ab4" alt="homepg-ph" width="400" height="600px">
+<img src="https://github.com/user-attachments/assets/d5c6570e-98c5-4a46-bfc7-f6c43f346ab4" alt="homepg-ph" width="300" height="600px">
 
 <br/>
 
