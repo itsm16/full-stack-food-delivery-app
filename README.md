@@ -10,8 +10,7 @@
 <br/>
 
 
-![homepg-ph](https://github.com/user-attachments/assets/d5c6570e-98c5-4a46-bfc7-f6c43f346ab4)
-
+<img src="https://github.com/user-attachments/assets/d5c6570e-98c5-4a46-bfc7-f6c43f346ab4" alt="homepg-ph" width="400" height="auto">
 
 <br/>
 
